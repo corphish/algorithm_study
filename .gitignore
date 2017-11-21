@@ -1,0 +1,3 @@
+# Executables will have .boo extension identifier
+*.boo
+*.log
